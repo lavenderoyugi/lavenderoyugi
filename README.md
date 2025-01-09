@@ -22,8 +22,8 @@
 [See All Projects Here →][SQL Full Revision](https://github.com/lavenderoyugi/SQL-Full-Revision/blob/main/Lavennder_%5BS%5D_LC_SQL_Full_Revision.ipynb)  [Gourment Restaurant](https://github.com/lavenderoyugi/Gourmet-Restaurant)    [Project Management App](https://github.com/lavenderoyugi/Inventory-Management/blob/main/README.md)
 
 
-### 🚀 **[Digital Marketing Performance Dashboard](link-to-repo)**
-- Comprehensive dashboard for campaign analysis using **Power BI**
+### 🚀 **[Digital Marketing Performance Dashboard](https://www.linkedin.com/in/lavender-oyugianalyst/details/projects/1728637727969/single-media-viewer/?profileId=ACoAAD1xeKwB-5FvR8sAHdBuvhXC7gN43xvxH2c)**
+- Comprehensive dashboard for campaign analysis to be updated here **Power BI**
 ---
 
 ## 🛠️ Tools & Technologies
