@@ -21,7 +21,7 @@
 ### 🤖 **[Movie Recommendation System](link-to-repo)**
 - Built a **machine learning** recommendation system for movies.
 
-[See All Projects Here →](link-to-all-projects)
+[See All Projects Here →](https://github.com/lavenderoyugi/SQL-Full-Revision/blob/main/Lavennder_%5BS%5D_LC_SQL_Full_Revision.ipynb)
 
 ---
 
