@@ -18,7 +18,7 @@
 ### 📊 **[Bicycle Parking Infrastructure Analysis](https://github.com/lavenderoyugi/-Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area-))**
 - Analyzed parking data in the Loire-Atlantique area. **[See Full Report](https://github.com/lavenderoyugi/-Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area-)**.
 
-### 🤖 **[Movie Recommendation System](link-to-repo)**
+### 🤖 **[Movie Recommendation System](https://github.com/lavenderoyugi/movie-recommendations-le-cruise)**
 - Built a **machine learning** recommendation system for movies.
 
 [See All Projects Here →][SQL Full Revision](https://github.com/lavenderoyugi/SQL-Full-Revision/blob/main/Lavennder_%5BS%5D_LC_SQL_Full_Revision.ipynb)  [Gourment Restaurant](https://github.com/lavenderoyugi/Gourmet-Restaurant)    [Project Management App](https://github.com/lavenderoyugi/Inventory-Management/blob/main/README.md)
