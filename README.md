@@ -33,7 +33,7 @@
 ---
 
 ## 📬 Let's Connect!
-- [LinkedIn]([https://www.linkedin.com/in/lavender-oyugianalyst/](https://www.linkedin.com/in/lavender-oyugianalyst/))
+- [LinkedIn](https://www.linkedin.com/in/lavender-oyugianalyst/)
 - [GitHub]([https://github.com/Lovelylove03](https://github.com/lavenderoyugi))
 - [Email Me](lavenderoyugi1@gmail.com)
 
