@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Lavender Oyugi
+### Data Analyst | Python | Power BI | SQL | Tableau
 
-<!--
-**lavenderoyugi/lavenderoyugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🌍 Based in **Saint-Nazaire, Loire-Atlantique**
+- 📈 I specialize in **data extraction, analysis, and visualization**.
+- 🏆 Completed a **Data Bootcamp at Wild Code School**.
+- 💡 My passion is helping individuals and businesses make **data-driven decisions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Projects
+### 🚀 **[Digital Marketing Performance Dashboard](link-to-repo)**
+- Comprehensive dashboard for campaign analysis using **Power BI**.
+
+### 📊 **[Bicycle Parking Infrastructure Analysis](link-to-repo)**
+- Analyzed parking data in the Loire-Atlantique area. **[See Full Report](link-to-repo)**.
+
+### 🤖 **[Movie Recommendation System](link-to-repo)**
+- Built a **machine learning** recommendation system for movies.
+
+[See All Projects Here →](link-to-all-projects)
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** Python, SQL, HTML/CSS
+- **Data Tools:** Power BI, Tableau, Pandas, Matplotlib
+- **Other Tools:** Git, Jupyter Notebooks, Streamlit
+
+---
+
+## 📬 Let's Connect!
+- [LinkedIn]([https://www.linkedin.com/in/lavender-oyugianalyst/](https://www.linkedin.com/in/lavender-oyugianalyst/))
+- [GitHub]([https://github.com/Lovelylove03](https://github.com/lavenderoyugi))
+- [Email Me](lavenderoyugi1@gmail.com)
+
+
