@@ -34,7 +34,7 @@
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/lavender-oyugianalyst/)
-- [GitHub]([https://github.com/Lovelylove03](https://github.com/lavenderoyugi))
+- [GitHub](https://github.com/Lovelylove03)
 - [Email Me](lavenderoyugi1@gmail.com)
 
 
