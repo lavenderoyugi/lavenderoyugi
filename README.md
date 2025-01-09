@@ -15,7 +15,7 @@
 ### 🚀 **[Digital Marketing Performance Dashboard](link-to-repo)**
 - Comprehensive dashboard for campaign analysis using **Power BI**.
 
-### 📊 **[Bicycle Parking Infrastructure Analysis](link-to-repo)**
+### 📊 **[Bicycle Parking Infrastructure Analysis]([link-to-repo](https://github.com/lavenderoyugi/-Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area-))**
 - Analyzed parking data in the Loire-Atlantique area. **[See Full Report](link-to-repo)**.
 
 ### 🤖 **[Movie Recommendation System](link-to-repo)**
