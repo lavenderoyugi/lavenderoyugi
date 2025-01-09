@@ -23,7 +23,7 @@
 
 
 ### 🚀 **[Digital Marketing Performance Dashboard](https://www.linkedin.com/in/lavender-oyugianalyst/details/projects/1728637727969/single-media-viewer/?profileId=ACoAAD1xeKwB-5FvR8sAHdBuvhXC7gN43xvxH2c)**
-- Comprehensive dashboard for campaign analysis to be updated here **Power BI**
+- Comprehensive dashboard for campaign analysis (to be updated here soon) **Power BI**
 ---
 
 ## 🛠️ Tools & Technologies
